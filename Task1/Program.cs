@@ -45,7 +45,7 @@ if (Validate(number))
 
     if (num1 == num2 && num3 == num4)
     {
-        Console.WriteLine($"число {number} зеркальное");
+        Console.WriteLine($"число {number} зеркальное, ПАЛИНДРОМ");
         Environment.Exit(1);
     }
 
